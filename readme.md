@@ -36,6 +36,15 @@ Plan and apply your changes:
 terraform plan
 terraform apply
 ```
+
+## Stating the project with the template
+To start a new project with this template, run the following on a terminal:
+
+```bash
+cookiecutter cookiecutter-terraform
+```
+It will ask you a couple of questions on the project details. Fill in the details and click enter to proceed.
+
 ## Modules (Roadmap item)
 
 ## Maintainer
