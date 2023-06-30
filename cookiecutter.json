@@ -1,0 +1,8 @@
+{
+  "project_slug": "my-terraform-project",
+  "project_name": "My Terraform Project",
+  "project_short_description": "My short description",
+  "code_owner": "@alex1kariuki",
+  "release_date": "2023-06-30",
+  "version": "0.1.0"
+}
