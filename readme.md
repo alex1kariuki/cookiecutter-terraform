@@ -17,25 +17,27 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/{{cookiecutter.github_username}}/{{cookiecutter.project_slug}}.git
+```
 
 Navigate to the desired environment:
 
-```bash
+```
 cd {{cookiecutter.project_slug}}/env/dev # or "prod" for production
+```
 
 Initialize Terraform:
 
 ```bash
 terraform init
-
+```
 Plan and apply your changes:
 
 ```bash
 terraform plan
 terraform apply
-
+```
 ## Modules (Roadmap item)
 
 ## Maintainer
 
-Github: @alex1kariuki[https://github.com/alex1kariuki]
+Github: [@alex1kariuki](https://github.com/alex1kariuki)
